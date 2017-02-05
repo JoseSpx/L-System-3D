@@ -1,0 +1,14 @@
+.container{
+    text-align: center;
+}
+
+*{
+    background-color: black;
+    overflow: hidden;
+    margin:0;
+}
+
+h3{
+    color:white;
+}
+
