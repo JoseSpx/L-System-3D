@@ -68,7 +68,7 @@ function dibujarArbol(axioma,angulo,div) {
 
     renderer = new THREE.WebGLRenderer();
     renderer.setSize(window.innerWidth,window.innerHeight);
-    document.getElementById("arbol1").appendChild(renderer.domElement);
+    document.getElementById(div).appendChild(renderer.domElement);
 
 
     var geometry;
