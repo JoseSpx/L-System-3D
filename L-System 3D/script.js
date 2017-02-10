@@ -1,4 +1,4 @@
-
+//created by Jose Suarez Principe
 var escena;
 var camara;
 var control;
@@ -198,6 +198,8 @@ function onWindowResize() {
     renderer.setSize( window.innerWidth, window.innerHeight );
 
 }
+
+//created by Jose Suarez Principe
 
 
 
