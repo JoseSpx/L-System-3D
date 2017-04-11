@@ -1,7 +1,7 @@
-# Computer-Graphics
-WebGl- Computer Graphics
+# L-System 3D
 
-it contains code about Computer Graphics to help students to get new knowledge
+Framework used : three.js , Jquery
+Language : Javascript
 
 Made By Jose Suarez Principe , student from Nacional University of Trujillo
 
